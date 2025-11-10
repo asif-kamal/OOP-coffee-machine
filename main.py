@@ -1,7 +1,7 @@
 from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
-
+#test
 machine_is_on = True
 money_machine = MoneyMachine()
 menu = Menu()
